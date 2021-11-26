@@ -10,3 +10,8 @@
 6. If you are on Microsoft Windows double-click the file
 7. If you are on GNU/Linux open a Terminal window and type "python3 main.py"
 8. Follow the instructions given on the screen.
+
+# Donate
+BTC:1F1o9MghkLAkStkUKXfVHJ5hbvwtkyuob4
+LTC:Lgzr5TqUwy2t6NyFP5cfj3F2mD4We3a1vj
+ETH (ERC20):0x420645eef0b51bca5dd7c3d27155e3cbd9237e95
