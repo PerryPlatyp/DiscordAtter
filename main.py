@@ -34,11 +34,11 @@ def faggio():
         
         bitchcccc = ninja
         pyautogui.typewrite(str(bitchcccc))
-        time.sleep(0.1)
+        time.sleep(0.37)
         pyautogui.press("Enter")
-        time.sleep(0.1)
+        
         pyautogui.press("Enter")
-        time.sleep(0.2)
+        
         susnumero += 1
         if susnumero >= jimin:
             laogonma = messagebox.showinfo('Done', "Completed sending the messages.")
